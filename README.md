@@ -1,0 +1,2 @@
+# gitExample
+Example for class 
